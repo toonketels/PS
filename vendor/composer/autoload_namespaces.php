@@ -6,6 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Symfony\\Component\\Filesystem' => $vendorDir . '/symfony/filesystem/',
     'Symfony\\Component\\Console' => $vendorDir . '/symfony/console/',
     'Symfony\\Component\\ClassLoader' => $vendorDir . '/symfony/class-loader/',
     'PS' => $baseDir . '/src',

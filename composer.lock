@@ -1,5 +1,5 @@
 {
-    "hash": "ec9df57fb1ebb7257043d60674a846fa",
+    "hash": "f0208e7f6b5b3aa217e1a7767ab7569b",
     "packages": [
         {
             "package": "symfony/class-loader",
@@ -24,10 +24,15 @@
             "source-reference": "afc5ecf2967bf3510363535c0389ddc0f6284784"
         },
         {
-            "package": "symfony/console",
+            "package": "symfony/filesystem",
             "version": "dev-master",
             "alias-pretty-version": "2.1.x-dev",
             "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/filesystem",
+            "version": "dev-master",
+            "source-reference": "658944da2891bda34bd5548792fa1322577fdf7a"
         }
     ],
     "packages-dev": null,
